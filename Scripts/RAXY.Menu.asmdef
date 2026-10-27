@@ -1,0 +1,19 @@
+{
+    "name": "RAXY.Menu",
+    "rootNamespace": "RAXY.Menu",
+    "references": [
+        "RAXY.Utility",
+        "RAXY.Core",
+        "Unity.Addressables",
+        "UniTask"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
